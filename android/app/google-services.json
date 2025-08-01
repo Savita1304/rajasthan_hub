@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345968386535",
+    "project_id": "rajasthanhub-bddb8",
+    "storage_bucket": "rajasthanhub-bddb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345968386535:android:da2cedf93709ac4afc1d42",
+        "android_client_info": {
+          "package_name": "com.example.rajasthan_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH0u_GJnTi2ORlatL3gcsn7-UxAj-H3QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
